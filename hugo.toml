@@ -1,6 +1,6 @@
 baseURL = "/" # (or set via env variable HUGO_BASEURL)
 languageCode = "en-GB"
-title = "Lotus Docs | A Hugo Documentation Theme"
+title = "Shan Docs | Work, Life Docs | ( ง⁼̴̀ω⁼̴́)ง⁼³₌₃"
 theme = "lotusdocs"
 contentDir = "content"
 enableEmoji = true
@@ -59,7 +59,7 @@ enableGitInfo = true # N.B. .GitInfo does not currently function with submodule 
         # rss = true                     # show rss icon with link
 
     [params.docs] # Parameters for the /docs 'template'
-        title           = "Lotus Docs"                        # default html title for documentation pages/sections
+        title           = "Shan Docs"                        # default html title for documentation pages/sections
 
         # pathName        = "docs"                            # path for documentation site | default "docs"
 
