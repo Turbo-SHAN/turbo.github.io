@@ -25,7 +25,7 @@ hero:
   #   height: 80px
 
   title: "Shan Docs"
-  subtitle: "> About **Work** and **Life**.<br>> A Coder, Digital Circuit Engineer(Front-End).<br>> Former Data Engineer."
+  subtitle: "> About **Work** and **Life**.<br>> A Coder, Digital Circuit Engineer(frontend).<br>> Former Data Engineer."
                                                                                               
   image:
     path: "images" # path to image under configured assets directory. default 'images'
