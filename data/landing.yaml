@@ -25,10 +25,8 @@ hero:
   #   height: 80px
 
   title: "Shan Docs"
-  subtitle: |+
-    Shan Docs About **work** and **life**.
-    A Coder, Digital Circuit Front-End Engineer.
-    Shan Docs About **work** and **life**. A Coder, Digital Circuit Front-End Engineer.
+  subtitle: Shan Docs About **work** and **life**. \n\
+    A Coder, Digital Circuit Front-End Engineer. Shan Docs About **work** and **life**. A Coder, Digital Circuit Front-End Engineer.
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
