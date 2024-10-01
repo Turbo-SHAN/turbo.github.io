@@ -3,11 +3,13 @@
     <div class="sidebar-brand">
         <a href='{{ relLangURL "" }}' aria-label="HomePage" alt="HomePage">
             <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 250 250">
-                <a href="../../../assets/images/logos/logo.svg">
+                <!--<a href="../../../assets/images/logos/logo.svg">
+            </svg>-->
+                {{ with resources.Get "images/logos/logo.svg" }}
+                    {{ .Content | safeHTML }}
+                {{ end }}
             </svg>
-            <!--{{ with resources.Get "images/logos/logo.svg" }}
-                {{ .Content | safeHTML }}
-            {{ end }}-->
+
         </a>
     </div>
     <div class="sidebar-content" style="height: calc(100% - 131px);">
