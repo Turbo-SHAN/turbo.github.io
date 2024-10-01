@@ -36,8 +36,8 @@ hero:
 
   ctaButton:
     icon: rocket_launch
-    btnText: "Get Started"
-    url: "/docs/quickstart/#create-a-new-lotus-docs-site"
+    btnText: "Get Startvdfbxed"
+    url: "https://turbo-shan.github.io/turbo.github.io/docs"
   cta2Button:
     icon: construction
     btnText: "In Development"
