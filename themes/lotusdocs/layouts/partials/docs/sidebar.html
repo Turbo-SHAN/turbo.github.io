@@ -2,9 +2,12 @@
 <nav id="sidebar" class="sidebar-wrapper">
     <div class="sidebar-brand">
         <a href='{{ relLangURL "" }}' aria-label="HomePage" alt="HomePage">
-            {{ with resources.Get "images/logos/logo.svg" }}
+            <!--{{ with resources.Get "images/logos/logo.svg" }}
                 {{ .Content | safeHTML }}
-            {{ end }}
+            {{ end }}-->
+            <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 250">
+                <img src="../../../assets/images/logos/logo.svg" alt="">
+            </svg>
         </a>
     </div>
     <div class="sidebar-content" style="height: calc(100% - 131px);">
