@@ -1,6 +1,6 @@
 baseURL = "/" # (or set via env variable HUGO_BASEURL)
 languageCode = "en-GB"
-title = "Shan Docs | Work, Life | ( ง⁼̴̀ω⁼̴́)ง⁼³₌₃"
+title = "Shan Docs | ( ง⁼̴̀ω⁼̴́)ง⁼³₌₃"
 theme = "lotusdocs"
 contentDir = "content"
 enableEmoji = true
