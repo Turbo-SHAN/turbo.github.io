@@ -1,6 +1,6 @@
 ---
 weight: 505
-title: "Verificaiton"
+title: "Design"
 description: "Landing Page Templates & Options."
 icon: flight_land
 date: 2022-12-08T19:14:15+00:00
