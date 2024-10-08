@@ -1,6 +1,6 @@
 ---
 weight: 1130
-title: "半导体物理"
+title: "Semiconductor"
 description: "Optional features in Lotus Docs."
 icon: tune
 lead: ""

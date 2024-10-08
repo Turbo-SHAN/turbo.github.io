@@ -1,6 +1,6 @@
 ---
 weight: 1345
-title: "机器学习"
+title: "Machine Learning"
 description: "Lotus Docs Custom Shortcodes."
 icon: code
 lead: ""
