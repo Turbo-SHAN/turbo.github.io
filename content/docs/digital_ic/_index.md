@@ -1,6 +1,6 @@
 ---
 weight: 500
-title: "数字电路"
+title: "Digital Circuit"
 description: "about digital integrated circuit."
 icon: menu_book
 date: 2022-11-22T12:36:15+00:00
