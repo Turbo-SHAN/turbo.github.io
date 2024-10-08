@@ -32,7 +32,7 @@ Many of the [features]({{% relref "/docs/features" %}}) and [configurations]({{%
 
 <div class="row flex-xl-wrap pb-4">
 
-<div id="list-item" class="col-md-4 col-12 py-2">
+<!--<div id="list-item" class="col-md-4 col-12 py-2">
   <a class="text-decoration-none text-reset" href="../features/syntax-highlighting/">
   <div class="card h-100 features feature-full-bg rounded p-4 position-relative overflow-hidden border-1">
       <span class="h1 icon-color">
@@ -114,7 +114,7 @@ Many of the [features]({{% relref "/docs/features" %}}) and [configurations]({{%
       </div>
     </div>
   </a>
-</div>
+</div>-->
 
 </div>
 
