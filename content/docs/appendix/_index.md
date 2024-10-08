@@ -1,6 +1,6 @@
 ---
 weight: 1700
-title: "Reference"
+title: "Appendix"
 description: "Reference information for Lotus Docs"
 icon: quick_reference_all
 lead: ""
