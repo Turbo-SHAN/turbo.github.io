@@ -102,7 +102,7 @@ To enable tooltip previews for internal links, set the `intLinkTooltip` paramete
 
 The link preview tooltip feature works by using a custom [Markdown render hook](https://gohugo.io/templates/render-hooks/) to first validate a link is internal, and then enables the tooltip function for those links. Markdown links in your content pages can be formatted in one of two ways:
 
-1. Using the `relref` shortcode - This shortcode displays the relative permalink to a document[^1].
+<!--1. Using the `relref` shortcode - This shortcode displays the relative permalink to a document[^1].
 
     {{< alert context="danger" >}}
     Be sure to use the <code>%</code> delimiter if creating internal markdown links using the <code>relref</code> shortcode. e.g.
@@ -112,7 +112,7 @@ The link preview tooltip feature works by using a custom [Markdown render hook](
     {{< alert context="warning" text="Note, that `relref` links don’t work with `_index` or `index` files, you’ll need to use regular Markdown links to section landing or other index pages. Specify these links relative to the site’s root URL, for example:`/docs/guides/`" />}}
 
 2. Links relative to the site's root - e.g. `/docs/guides/features/docsearch/` - [/docs/guides/features/docsearch/](/docs/features/docsearch/)
-
+-->
 Both these formats will enable preview tooltips on internal links. However, one benefit of using `relref` to link internal content is that the `hugo` command will produce an error if an internal link's path is invalid.
 
 [^1]: [Links and cross references | Hugo](https://gohugo.io/content-management/cross-references/#use-ref-and-relref)
