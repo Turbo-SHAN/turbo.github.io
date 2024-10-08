@@ -28,7 +28,7 @@ Lotus Docs is a theme for the [Hugo](https://gohugo.io) static site generator (S
 
 ### Features
 
-Many of the [features]({{% relref "/docs/features" %}}) and [configurations]({{% relref "configuration" %}}) available in the Lotus Docs theme are on display here in this documentation. You can clone this entire site and edit it to suit your projects, or explore the site, its source and see what Lotus Docs can do. Check out a few of Lotus Docs' features:
+<!--Many of the [features]({{% relref "/docs/features" %}}) and [configurations]({{% relref "configuration" %}}) available in the Lotus Docs theme are on display here in this documentation. You can clone this entire site and edit it to suit your projects, or explore the site, its source and see what Lotus Docs can do. Check out a few of Lotus Docs' features:-->
 
 <div class="row flex-xl-wrap pb-4">
 
